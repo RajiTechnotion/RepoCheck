@@ -1,0 +1,7 @@
+#Thu Aug 31 12:44:55 IST 2017
+base.0=/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3e426c329d22034dc44544d7f8d42fab9f4c8660
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d7858a0e857683201b936fda155ce76337cc88b7/classes.dex
+base.1=/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d7858a0e857683201b936fda155ce76337cc88b7
+file.0=/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3e426c329d22034dc44544d7f8d42fab9f4c8660/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_small_off_client.png",
+        "source": "/home/admin/.android/build-cache/d8803b6938d76e0b2006efb95de431ba77ddf985/output/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_medium_off_client.png",
+        "source": "/home/admin/.android/build-cache/d8803b6938d76e0b2006efb95de431ba77ddf985/output/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_tall_off_client.png",
+        "source": "/home/admin/.android/build-cache/d8803b6938d76e0b2006efb95de431ba77ddf985/output/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_standard_off_client.png",
+        "source": "/home/admin/.android/build-cache/d8803b6938d76e0b2006efb95de431ba77ddf985/output/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    }
+]

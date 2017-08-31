@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

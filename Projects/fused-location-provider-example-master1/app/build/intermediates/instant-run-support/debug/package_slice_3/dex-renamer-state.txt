@@ -1,0 +1,4 @@
+#Thu Aug 31 12:43:49 IST 2017
+base.0=/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3
+renamed.0=classes.dex
+file.0=/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/admin/.android/build-cache/89867e6b7cc404ea8e1a00a349838e5e8bc77ae3/output/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

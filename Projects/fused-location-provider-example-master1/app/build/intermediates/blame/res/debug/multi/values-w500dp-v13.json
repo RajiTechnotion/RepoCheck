@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/admin/.android/build-cache/89867e6b7cc404ea8e1a00a349838e5e8bc77ae3/output/res/values-w500dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 54,
+                        "endOffset": 226
+                    }
+                }
+            }
+        ]
+    }
+]

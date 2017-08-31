@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/admin/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_f7e5e33cd196302aa9981f762f5222b7f4ea35c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3e426c329d22034dc44544d7f8d42fab9f4c8660/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b31e9519e2f8e06ec37d8c66992908adb0cd288b">
+        <dex dex="/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d7858a0e857683201b936fda155ce76337cc88b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/admin/.android/build-cache/a5c0df3c7852d899bf497a1c91c463c8c49d5601/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c8ed29d42d2ee01c2e629f100d7414a6a87db42/classes.dex" />
+    </item>
+
+</items>

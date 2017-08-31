@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/home/admin/.android/build-cache/a5c0df3c7852d899bf497a1c91c463c8c49d5601/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/admin/.android/build-cache/a5c0df3c7852d899bf497a1c91c463c8c49d5601/output/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
+        "source": "/home/admin/.android/build-cache/89867e6b7cc404ea8e1a00a349838e5e8bc77ae3/output/res/color/abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/home/admin/.android/build-cache/a5c0df3c7852d899bf497a1c91c463c8c49d5601/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/admin/.android/build-cache/973f5e3251ade61da43cfae373623da8341a74ff/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/admin/AndroidStudioProjects/fused-location-provider-example-master1/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/admin/.android/build-cache/a5c0df3c7852d899bf497a1c91c463c8c49d5601/output/res/color/common_signin_btn_text_light.xml"
+    }
+]
